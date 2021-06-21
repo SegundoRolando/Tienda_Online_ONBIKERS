@@ -130,7 +130,5 @@ Del trabajo que se realizo se pude concluir  una buena práctica nos puede lleva
 además ya que esta es una herramienta que nos ha permitido descubrir la funcinalidad  del manejo de tiendas online en otros.
 
 
-![image](https://user-images.githubusercontent.com/49033606/122708032-d2104480-d220-11eb-8fe8-97b3fc21e386.png) 
-Willan Steven Mendieta Molina                
-![image](https://user-images.githubusercontent.com/49033606/122709107-36cc9e80-d223-11eb-9cef-411e8bdc2f15.png)
-Segundo Rolando Calle Tirado
+![image](https://user-images.githubusercontent.com/49033606/122708032-d2104480-d220-11eb-8fe8-97b3fc21e386.png) Willan Steven Mendieta Molina                
+![image](https://user-images.githubusercontent.com/49033606/122709107-36cc9e80-d223-11eb-9cef-411e8bdc2f15.png) Segundo Rolando Calle Tirado
