@@ -1,0 +1,8 @@
+2021-06-19T17:35:16+00:00 CRITICAL Uncaught WC_Data_Exception in /home/vol17_2/byethost14.com/b14_28894317/rp.66ghz.com/htdocs/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-data.php:856
+Stack trace:
+#0 /home/vol17_2/byethost14.com/b14_28894317/rp.66ghz.com/htdocs/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/Note.php(396): WC_Data->error('admin_note_inva...', '')
+#1 /home/vol17_2/byethost14.com/b14_28894317/rp.66ghz.com/htdocs/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/CouponPageMoved.php(73): Automattic\WooCommerce\Admin\Notes\Note->set_title('')
+#2 /home/vol17_2/byethost14.com/b14_28894317/rp.66ghz.com/htdocs/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php(67): Automattic\WooCommerce\Admin\Notes\CouponPageMoved::get_note()
+#3 /home/vol17_2/byethost14.com/b14_28894317/rp.66ghz.com/htdocs/wp-includes/class-wp-hook.php(292): Automattic\WooCommerce\Admin\Notes\CouponPageMoved::possibly_add_note('')
+#4 /home/vol17_2/byethost14.com/b14_28894317/rp.66g en /home/vol17_2/byethost14.com/b14_28894317/rp.66ghz.com/htdocs/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-data.php en la línea 856
+

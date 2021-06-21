@@ -1,0 +1,32 @@
+.wdr_you_saved_con {
+    color: green;
+}
+.wdr_order_discount-total{
+    margin: 10px 0;
+}
+.wdr_table_content_advance_item{
+    margin: 5px 0;
+}
+.wdr_table_container_for_admin{
+    position: relative;
+}
+.wdr_table_cbr:hover{
+    border: 1px solid #ddd;
+}
+.wdr_table_off_settings_link_con{
+    position: absolute;
+    top: 0;
+    right: 0;
+    display: none;
+    background-color: #ddd;
+    padding: 0 5px;
+}
+.wdr_table_off_settings_hint{
+    font-size: 12px;
+}
+.wdr_table_off_settings_hint{
+    display: block;
+}
+.wdr_checkout_promotion_messages_data{
+    display: none;
+}

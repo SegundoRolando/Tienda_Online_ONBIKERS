@@ -1,0 +1,363 @@
+# Translation of Themes - Envo Storefront in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Envo Storefront package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-04-14 13:06:01+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Envo Storefront\n"
+
+#. Description of the theme
+msgid "Envo Storefront is a fast, clean and modern-looking responsive free WooCommerce theme for WordPress. This theme supports popular page builders like Elementor, KingComposer, Beaver Builder, SiteOrigin, Thrive Architect, Divi, Brizy, Visual Composer, etc. The theme is responsive, super fast, SEO friendly, WPML and RTL ready. Documentation: https://envothemes.com/docs/docs/envo-storefront/ Theme demo ready to import: https://envothemes.com/envo-storefront/"
+msgstr "Envo Storefront es un tema de WordPress rápido, con estilo moderno y limpio, adaptatable (responsive) y gratuito. Este tema es compatible con  constructores visuales como Elementor, KingComposer, Beaver Builder, SiteOrigin, Thrive Architect, Divi, Brizy, Visual Composer, etc. El tema es adaptable (responsive), super rápido, bueno para el SEO y preparado para WPML y RTL (lectura de derecha a izquierda) Documentación: https://envothemes.com/docs/docs/envo-storefront/ Demo del tema preparada para ser importada: https://envothemes.com/envo-storefront/"
+
+#. Theme Name of the theme
+msgid "Envo Storefront"
+msgstr "Envo Storefront"
+
+#: lib/customizer/info.php:147
+msgid "View PRO version"
+msgstr "Ver la versión PRO"
+
+#: lib/customizer/info.php:145
+msgid "PRO version"
+msgstr "Versión PRO"
+
+#. translators: %s: "documentation" string
+#: lib/customizer/info.php:30
+msgid "For step-by-step videos and text tutorials, see %1$s"
+msgstr "Para vídeos con el paso a paso y tutoriales en texto, mira %1$s"
+
+#. translators: %s: "demos here" string
+#: lib/customizer/info.php:26
+msgid "demos"
+msgstr "demos"
+
+#. translators: %s: "demos here" string
+#: lib/customizer/info.php:26
+msgid "You can use this theme to create a website like these %1$s"
+msgstr "Puedes usar este tema para crear un sitio web como este %1$s"
+
+#: lib/customizer/info.php:11
+msgid "Video Documentation & Demo"
+msgstr "Vídeo de documentación y demo"
+
+#: lib/wp_bootstrap_navwalker.php:362
+msgid "Add a menu"
+msgstr "Añade un menú"
+
+#: lib/woocommerce.php:61
+msgid "My Account"
+msgstr "Mi cuenta"
+
+#: lib/woocommerce.php:7
+msgid "View your shopping cart"
+msgstr "Ver tu carrito"
+
+#. translators: %s: "Click here" string
+#. translators: %s: "documentation" string
+#. translators: %1$s "documentation" string and link
+#: lib/customizer/demo.php:27 lib/customizer/info.php:30 lib/dashboard.php:466
+msgid "documentation"
+msgstr "documentación"
+
+#. translators: %s: "Click here" string
+#. translators: %1$s "documentation" string and link
+#: lib/customizer/demo.php:27 lib/dashboard.php:466
+msgid "You can import the demo content with just one click. For step-by-step video tutorial, see %1$s"
+msgstr "Puedes importar el contenido de demostración con sólo un clic. Para ver un vídeo tutorial sobre cómo hacerlo paso a paso, mira %1$s"
+
+#: lib/dashboard.php:448
+msgid "Hooray! There are no required actions for you right now."
+msgstr "¡Bravo! En este momento no es necesaria ninguna acción."
+
+#: lib/dashboard.php:439
+msgid "Recommended plugins"
+msgstr "Plugins recomendados"
+
+#: lib/dashboard.php:414
+msgid "Contact us"
+msgstr "Contacta con nosotros"
+
+#: lib/dashboard.php:412
+msgid "Having trouble? Need support?"
+msgstr "¿Tienes problemas? ¿Necesitas ayuda?"
+
+#. translators: %s theme name
+#: lib/dashboard.php:406
+msgid "%s Documentation"
+msgstr "Documentación de %s"
+
+#. translators: %s theme name
+#: lib/dashboard.php:399
+msgid "Need help in setting up and configuring %s? Please take a look at our documentation page."
+msgstr "¿Necesitas ayuda para instalar y configurar %s? Por favor, échale un vistazo a nuestra página de documentación."
+
+#: lib/dashboard.php:395
+msgid "Theme documentation"
+msgstr "Documentación del tema"
+
+#: lib/dashboard.php:391
+msgid "Start customizing"
+msgstr "Comienza a personalizar"
+
+#. translators: %s theme name
+#: lib/dashboard.php:387
+msgid "%s supports the Theme Customizer for all theme settings. Click \"Customize\" to personalize your site."
+msgstr "%s permite usar el personalizador de temas para todos los ajustes del tema. Haz clic en \"Personalizar\" para personalizar tu sitio."
+
+#: lib/dashboard.php:383
+msgid "Theme Customizer"
+msgstr "Personalizador del tema"
+
+#: lib/customizer/demo.php:15 lib/dashboard.php:321 lib/dashboard.php:323
+msgid "One Click Demo Import"
+msgstr "Importación de la demo en un clic"
+
+#: lib/dashboard.php:302
+msgid "Recommended Actions"
+msgstr "Acciones recomendadas"
+
+#: lib/dashboard.php:255
+msgid "Details"
+msgstr "Detalles"
+
+#: lib/dashboard.php:234
+msgid "Activate"
+msgstr "Activar"
+
+#: lib/dashboard.php:215
+msgid "Install Now"
+msgstr "Instalar ahora"
+
+#: lib/customizer/demo.php:42 lib/customizer/demo.php:44 lib/dashboard.php:172
+#: lib/dashboard.php:176 lib/dashboard.php:457
+msgid "Import demo data"
+msgstr "Importar datos de demostración"
+
+#. translators: %s theme name
+#: lib/dashboard.php:162
+msgid "Get started with %s"
+msgstr "Empieza con %s"
+
+#. translators: %1$s: theme name, %2$s link
+#: lib/dashboard.php:154
+msgid "Welcome! Thank you for choosing %1$s! To fully take advantage of the best our theme can offer please make sure you visit our <a href=\"%2$s\">Welcome page</a>"
+msgstr "¡Bienvenido! Gracias por elegir %1$s. Para sacarle todo el partido a todo lo que nuestro tema puede ofrecer, por favor, asegúrate de visitar nuestra <a href=\"%2$s\">página de bienvenida</a>"
+
+#. translators: %1$s: theme name, %2$s theme version
+#. translators: %1$s theme name, %2$s theme version
+#: lib/dashboard.php:147 lib/dashboard.php:366
+msgid "Welcome to %1$s - Version %2$s"
+msgstr "Bienvenido a %1$s - Versión %2$s"
+
+#: lib/dashboard.php:126
+msgid "Envo Storefront dashboard"
+msgstr "Escritorio de Envo Strorefront"
+
+#: lib/dashboard.php:123
+msgid "Envo Storefront theme"
+msgstr "Tema de Envo Storefront"
+
+#. translators: %s: replaced with number (counter)
+#: lib/dashboard.php:121
+msgid "Envo Storefront theme %s"
+msgstr "Tema de Envo Storefront %s"
+
+#. translators: %1$s: replaced with number (counter)
+#: lib/dashboard.php:118
+msgid "%1$s action required"
+msgid_plural "%1$s actions required"
+msgstr[0] "Es necesaria %1$s acción"
+msgstr[1] "Son necesarias %1$s acciones"
+
+#: comments.php:46
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:22
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s comentario en &ldquo%2$s&rdquo;"
+msgstr[1] "%1$s comentarios en &ldquo%2$s&rdquo;"
+
+#. translators: %s: post title
+#: comments.php:19
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Un comentario en &ldquo;%s&rdquo;"
+
+#: content-none.php:19
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no encontramos lo que estás buscando. Puede que una búsqueda te ayude."
+
+#: content-none.php:14
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo sentimos, pero nada coincide con tus términos de búsqueda. Por favor, prueba de nuevo con algunas palabras diferentes."
+
+#. translators: %1$s: link to admin area
+#: content-none.php:8
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Listo para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: content-none.php:2
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#: template-parts/template-part-topnav.php:79
+msgid "Menu"
+msgstr "Menú"
+
+#: template-parts/template-part-topnav.php:41
+msgid "All Categories"
+msgstr "Todas las categorías"
+
+#: template-parts/template-part-topnav.php:39
+msgid "Search products..."
+msgstr "Buscar productos..."
+
+#: template-parts/template-part-postauthor.php:4
+msgid "About The Author"
+msgstr "Sobre el autor"
+
+#. Template Name of the theme
+msgid "Page Builders"
+msgstr "Constructor de páginas"
+
+#: 404.php:10
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Parece que no hay nada aquí. ¿Y si pruebas con una búsqueda?"
+
+#: 404.php:8
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Vaya! No se puede encontrar esa página."
+
+#. translators: %s: search result string
+#: search.php:13
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda para: %s"
+
+#: functions.php:559
+msgid "Skip to the content"
+msgstr "Saltar al contenido"
+
+#: functions.php:527
+msgid "By"
+msgstr "Por"
+
+#: functions.php:512
+msgid "Next"
+msgstr "Siguiente"
+
+#: functions.php:512
+msgid "Next Post"
+msgstr "Siguiente entrada"
+
+#: functions.php:511
+msgid "Previous"
+msgstr "Anterior"
+
+#: functions.php:511
+msgid "Previous Post"
+msgstr "Entrada anterior"
+
+#: functions.php:441
+msgid "Comment on "
+msgstr "Comentario en"
+
+#: functions.php:438
+msgid "Off"
+msgstr "Desactivado"
+
+#. translators: %1$s: Envo Storefront theme name (do not translate) with
+#. envothemes.com URL
+#: functions.php:404
+msgctxt "Theme name, do not translate"
+msgid "Envo Storefront"
+msgstr "Envo Storefront"
+
+#. translators: %1$s: Envo Storefront theme name (do not translate) with
+#. envothemes.com URL
+#: functions.php:404
+msgid "Theme: %1$s"
+msgstr "Tema: %1$s"
+
+#. translators: %s: WordPress name with wordpress.org URL
+#: functions.php:399
+msgid "WordPress"
+msgstr "WordPress"
+
+#. translators: %s: WordPress name with wordpress.org URL
+#: functions.php:399
+msgid "https://wordpress.org/"
+msgstr "https://es.wordpress.org/"
+
+#. translators: %s: WordPress name with wordpress.org URL
+#: functions.php:399
+msgid "Proudly powered by %s"
+msgstr "Funciona gracias a %s"
+
+#: functions.php:375
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: functions.php:371
+msgid "Category"
+msgstr "Categoría"
+
+#: functions.php:327
+msgid "Footer Section"
+msgstr "Sección de pie de página"
+
+#: functions.php:317
+msgid "Header Section"
+msgstr "Sección de cabecera"
+
+#: functions.php:307
+msgid "Top Bar Section"
+msgstr "Sección de barra superior"
+
+#: functions.php:297
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: functions.php:194
+msgctxt "Open Sans Condensed font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: %s plugin name string
+#: functions.php:95
+msgid "The most advanced frontend drag & drop page builder."
+msgstr "El constructor de paginas de arrastrar y soltar más avanzado."
+
+#. translators: %s plugin name string
+#: functions.php:89
+msgid "To enable shop features, please install and activate the %s plugin."
+msgstr "Para activar las funciones de tienda, por favor, instala y activa el plugin %s"
+
+#: lib/dashboard.php:169 functions.php:83
+msgid "Save time by importing our demo data: your website will be set up and ready to be customized in minutes."
+msgstr "Ahorra tiempo importando nuestros datos de demostración: se montará tu sitio y en pocos minutos estará listo para ser personalizado."
+
+#: functions.php:25
+msgid "Main Menu"
+msgstr "Menú principal"
+
+#. Author URI of the theme
+msgid "https://envothemes.com/"
+msgstr "https://envothemes.com/"
+
+#. Author of the theme
+msgid "EnvoThemes"
+msgstr "EnvoThemes"
+
+#. Theme URI of the theme
+msgid "https://envothemes.com/free-envo-storefront/"
+msgstr "https://envothemes.com/free-envo-storefront/"

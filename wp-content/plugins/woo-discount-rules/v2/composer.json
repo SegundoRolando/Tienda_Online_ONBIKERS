@@ -1,0 +1,40 @@
+{
+  "name": "flycart/woo_discount_rules_v2",
+  "description": "Simple Discount Rules for WooCommerce.",
+  "type": "project",
+  "license": "GPL2 or Later",
+  "authors": [
+    {
+      "name": "Balakrishnan",
+      "email": "balakrishnan@cartrabbit.in"
+    },
+    {
+      "name": "Sathyaseelan S",
+      "email": "sathyaseelan@cartrabbit.in"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "vlucas/valitron": "dev-master"
+  },
+  "autoload": {
+    "files": [
+      "App/Helpers/ProOptions.php"
+    ],
+    "psr-4": {
+      "Wdr\\": "",
+      "Wdr\\App\\": "App/",
+      "Wdr\\App\\Controllers\\": "App/Controllers/",
+      "Wdr\\App\\Models\\": "App/Models/",
+      "Wdr\\App\\Helpers\\": "App/Helpers/",
+      "Wdr\\App\\Views\\": "App/Views/",
+      "Wdr\\App\\Conditions\\": "App/Conditions/",
+      "Wdr\\App\\Views\\Admin\\": "App/Views/Admin/",
+      "Wdr\\App\\Views\\Admin\\Rules\\": "App/Views/Admin/Rules",
+      "Wdr\\App\\Views\\Admin\\Rules\\Filters\\": "App/Views/Admin/Rules/Filters",
+      "Wdr\\App\\Views\\Admin\\Rules\\Condition\\": "App/Views/Admin/Rules/Condition",
+      "Wdr\\App\\Views\\Admin\\Rules\\CartAdjustments\\": "App/Views/Admin/Rules/CartAdjustments",
+      "Wdr\\App\\Views\\Admin\\Rules\\Template\\": "App/Views/Admin/Rules/Template"
+    }
+  }
+}
