@@ -30,12 +30,10 @@ contrario este no podra comprar, todos nuestro clientes se deben registrar para 
 
 Nuestro primeros provvedores son :
 
-[7:47 a. m., 17/6/2021] Yoselin M 2: Ah ok.. </br>
 🔹elextrovisual </br>
 🔸Imporglobe </br>
 🔹Gerardo Ortiz e Hijos CIA LTDA (coral)</br>
-Y otros que ya no recuerdo xq son de chinos</br>
-[7:47 a. m., 17/6/2021] Yoselin M 2: Electrovisual</br>
+
 
 ### 5.¿Cuáles son sus Clientes principales?
 
@@ -83,7 +81,8 @@ mensaje de peticion mas informacion o reclamos tenemos este formulario para pode
 estara disponibles para todos quienes  necesiten hacerlo y este sera respondido inmediatemente 
 al cliente que lo envia.
 
-![image](https://user-images.githubusercontent.com/49033606/122707845-7cd43300-d220-11eb-8378-74a4d1ad4807.png)
+![image](https://user-images.githubusercontent.com/49033606/122707829-71810780-d220-11eb-96a9-3ccf643511f9.png)
+
 
 ### a.	Nombre de la base de datos (estructura de la base de datos)
 
@@ -120,7 +119,7 @@ URL de tu sitio web:	http://william.byethost14.com
 
 ### d.	La evidencia del correcto funcionamiento de cada uno de los puntos requeridos.
 
-![image](https://user-images.githubusercontent.com/49033606/122707829-71810780-d220-11eb-96a9-3ccf643511f9.png)
+![image](https://user-images.githubusercontent.com/49033606/122707845-7cd43300-d220-11eb-8378-74a4d1ad4807.png)
 
 ![image](https://user-images.githubusercontent.com/49033606/122707993-ba38c080-d220-11eb-9078-e0923973f740.png)
 
@@ -129,4 +128,6 @@ URL de tu sitio web:	http://william.byethost14.com
 
 Del trabajo que se realizo se pude concluir  una buena prectica nos puede llevar a tener un mejor diseño dentro de wordprees 
 ademas ya que esta es una herramienta que nos ha permitido descubrir la funcinalidad  del manejo de tiendas online en otros.
+
+
 ![image](https://user-images.githubusercontent.com/49033606/122708032-d2104480-d220-11eb-8fe8-97b3fc21e386.png)
