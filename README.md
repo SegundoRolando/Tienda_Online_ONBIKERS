@@ -22,8 +22,8 @@ más atractivos para el cliente.
 
 ### 3.¿Qué métodos de pago acepta?
 
-En cuento los metodos de pago del producto que se entregara a domicilio, se aceptara toda clase 
-tarjeta de credito, ademas los clientes se deben registar para  poder realizar su pago caso 
+En cuento los métodos de pago del producto que se entregara a domicilio, se aceptara toda clase 
+tarjeta de crédito, además los clientes se deben registar para  poder realizar su pago caso 
 contrario este no podra comprar, todos nuestro clientes se deben registrar para realizar su pedido.
 
 ### 4.¿Cuáles son sus proveedores principales?
@@ -38,13 +38,13 @@ Nuestro primeros provvedores son :
 ### 5.¿Cuáles son sus Clientes principales?
 
 Nuestros clientes principales son quienes distribuyen como mas pequeños negocios a su ver estos son 
-nuestras sucursales, ademas tenemos los clientes mas destacados ya que estos reciben ofertas por 
+nuestras sucursales, además tenemos los clientes mas destacados ya que estos reciben ofertas por 
 su aporte colaborativo a la empresa.
 
 ### 6.¿Quienes somos - Equipo de trabajo?
 
-Nosotros somos una empresa empredendora con personal capacitado para dar servicio a nuestros clientes
-disponemos  los horarios  establecidos para poder dar ayudarle fisicamente o por email o llamada telefonica,
+Nosotros somos una empresa emprededora con personal capacitado para dar servicio a nuestros clientes
+disponemos  los horarios  establecidos para poder dar ayudarle fisicamente o por email o llamada telefónica,
 estamos  dispuestos a brindar resultados instantaneos sobre sus consultas y pedidos..
 
 
@@ -76,8 +76,8 @@ Preguntas sobre las Devoluciones
 
 ### 9.Formulario de contacto
 
-Nuestro formulario de contacto nos permitira a que los clientes que necesitan mandarnos un 
-mensaje de peticion mas informacion o reclamos tenemos este formulario para poder hacer y 
+Nuestro formulario de contacto nos permitira a que los clientes que necesitan enviarnos un 
+mensaje de petición mas información o reclamos tenemos este formulario para poder hacer y 
 estara disponibles para todos quienes  necesiten hacerlo y este sera respondido inmediatemente 
 al cliente que lo envia.
 
@@ -126,8 +126,8 @@ URL de tu sitio web:	http://william.byethost14.com
 ![image](https://user-images.githubusercontent.com/49033606/122708012-c7ee4600-d220-11eb-951b-bb8b4016acd8.png)
 ### e.	El informe debe incluir conclusiones apropiadas. 
 
-Del trabajo que se realizo se pude concluir  una buena prectica nos puede llevar a tener un mejor diseño dentro de wordprees 
-ademas ya que esta es una herramienta que nos ha permitido descubrir la funcinalidad  del manejo de tiendas online en otros.
+Del trabajo que se realizo se pude concluir  una buena práctica nos puede llevar a tener un mejor diseño dentro de wordprees 
+además ya que esta es una herramienta que nos ha permitido descubrir la funcinalidad  del manejo de tiendas online en otros.
 
 
 ![image](https://user-images.githubusercontent.com/49033606/122708032-d2104480-d220-11eb-8fe8-97b3fc21e386.png)
