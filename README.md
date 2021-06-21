@@ -83,11 +83,13 @@ mensaje de peticion mas informacion o reclamos tenemos este formulario para pode
 estara disponibles para todos quienes  necesiten hacerlo y este sera respondido inmediatemente 
 al cliente que lo envia.
 
-![image](https://user-images.githubusercontent.com/49033606/122701631-4ba13600-d213-11eb-8670-72c8b03a354c.png)
+![image](https://user-images.githubusercontent.com/49033606/122707845-7cd43300-d220-11eb-8378-74a4d1ad4807.png)
 
 ### a.	Nombre de la base de datos (estructura de la base de datos)
 
 b14_28894317
+![image](https://user-images.githubusercontent.com/49033606/122707241-3a5e2680-d21f-11eb-99c5-4b1071d77f36.png)
+
 
 ### b.	El desarrollo de cada uno de los requerimientos antes descritos. 
 
@@ -103,9 +105,28 @@ Nombre de host FTP:	ftp.byethost14.com
 URL de tu sitio web:	http://william.byethost14.com
 
 ### c.	La evidencia del correcto diseño de las páginas HTML usando CSS. Para lo cuál, se puede generar fotografías instantáneas (pantallazos). 
+![image](https://user-images.githubusercontent.com/49033606/122707695-21a24080-d220-11eb-9a4f-e2b1bedad4d7.png)
+
+
+![image](https://user-images.githubusercontent.com/49033606/122707725-31ba2000-d220-11eb-87a7-052d8c712101.png)
+
+![image](https://user-images.githubusercontent.com/49033606/122707751-41396900-d220-11eb-9544-ca4c3af30c67.png)
+
+![image](https://user-images.githubusercontent.com/49033606/122707779-4f878500-d220-11eb-9adb-6e6281eb3d98.png)
+
+![image](https://user-images.githubusercontent.com/49033606/122707815-675f0900-d220-11eb-88a0-e401d5c743c8.png)
+
+
 
 ### d.	La evidencia del correcto funcionamiento de cada uno de los puntos requeridos.
+
+![image](https://user-images.githubusercontent.com/49033606/122707829-71810780-d220-11eb-96a9-3ccf643511f9.png)
+
+![image](https://user-images.githubusercontent.com/49033606/122707993-ba38c080-d220-11eb-9078-e0923973f740.png)
+
+![image](https://user-images.githubusercontent.com/49033606/122708012-c7ee4600-d220-11eb-951b-bb8b4016acd8.png)
 ### e.	El informe debe incluir conclusiones apropiadas. 
 
 Del trabajo que se realizo se pude concluir  una buena prectica nos puede llevar a tener un mejor diseño dentro de wordprees 
 ademas ya que esta es una herramienta que nos ha permitido descubrir la funcinalidad  del manejo de tiendas online en otros.
+![image](https://user-images.githubusercontent.com/49033606/122708032-d2104480-d220-11eb-8fe8-97b3fc21e386.png)
