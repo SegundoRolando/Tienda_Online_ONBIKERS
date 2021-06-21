@@ -45,7 +45,7 @@ su aporte colaborativo a la empresa.
 
 Nosotros somos una empresa emprededora con personal capacitado para dar servicio a nuestros clientes
 disponemos  los horarios  establecidos para poder dar ayudarle fisicamente o por email o llamada telefónica,
-estamos  dispuestos a brindar resultados instantaneos sobre sus consultas y pedidos..
+estamos  dispuestos a brindar resultados instantaneos sobre sus consultas y pedidos.
 
 
 ### 7.Ubicación geográfica de la empresa, (sucursales, bodegas, oficinas, etc) 
