@@ -85,4 +85,27 @@ al cliente que lo envia.
 
 ![image](https://user-images.githubusercontent.com/49033606/122701631-4ba13600-d213-11eb-8670-72c8b03a354c.png)
 
+### a.	Nombre de la base de datos (estructura de la base de datos)
 
+b14_28894317
+
+### b.	El desarrollo de cada uno de los requerimientos antes descritos. 
+
+Nombre de usuario del panel de control:	b14_28894317
+Contraseña del panel de control:	****
+URL del panel de control:	cpanel.byethost14.com
+Nombre de usuario de MySQL	b14_28894317
+Contraseña de MySQL:	****
+Nombre de host MySQL:	sql309.byethost14.com
+Nombre de usuario FTP:	b14_28894317
+Contraseña FTP:	****
+Nombre de host FTP:	ftp.byethost14.com
+URL de tu sitio web:	http://william.byethost14.com
+
+### c.	La evidencia del correcto diseño de las páginas HTML usando CSS. Para lo cuál, se puede generar fotografías instantáneas (pantallazos). 
+
+### d.	La evidencia del correcto funcionamiento de cada uno de los puntos requeridos.
+### e.	El informe debe incluir conclusiones apropiadas. 
+
+Del trabajo que se realizo se pude concluir  una buena prectica nos puede llevar a tener un mejor diseño dentro de wordprees 
+ademas ya que esta es una herramienta que nos ha permitido descubrir la funcinalidad  del manejo de tiendas online en otros.
