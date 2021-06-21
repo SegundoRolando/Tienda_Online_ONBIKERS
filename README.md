@@ -28,7 +28,7 @@ contrario este no podra comprar, todos nuestro clientes se deben registrar para 
 
 ### 4.¿Cuáles son sus proveedores principales?
 
-Nuestro primeros provvedores son :
+Nuestro primeros proveedores son :
 
 🔹elextrovisual </br>
 🔸Imporglobe </br>
